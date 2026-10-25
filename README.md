@@ -2,12 +2,9 @@
 
 ### Trying to make a career on plant genetics/biochemistry focused bioinformatics.
 
-- 🔭 As a personal project, I'm working on my nvim personal config for bioinformatics usage. That includes
-  programming and writing in quarto markdown (.qmd) in a way it feels good to me. Its not perfect, but its suited
-  to my needs. The current state is a bit of a mess, been using it lately as a testing ground for a lot of things. I'll create
-  a new updated and stable config soon enough
-- 🌱 For working purposes, I’m currently learning bioinformatic Nextflow/nf-core pipeline building and coursing a bioinformatics master degree.
-I'll probably post some of my work in the master as a repository.
+- 🔭 As a personal project, I'm working on my nvim personal config for bioinformatics usage (oak-nvim).
+- 🌱 Currently learning bioinformatic Nextflow/nf-core pipeline building and coursing a bioinformatics master degree.
+I'll probably post some of my work soon enough.
 
 ### Languages and tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
